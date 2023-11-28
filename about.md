@@ -4,5 +4,4 @@ layout: page
 permalink: /about/
 ---
 
-i am a human person who lives in the "pacific northwest" of what is commonly known
-as the united states of america.
+We specialize in games that explore the convergence of art, math, language, cognition, and social justice.

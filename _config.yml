@@ -1,17 +1,16 @@
 ### Site metadata
 
 # Don't make the title longer than this, otherwise it gets covered in mobile view.
-title: cass deckard
-description: cass deckard dot github dot io
+title: InfinitySum Game Collective
+description: We specialize in games that explore the convergence of art, math, language, cognition, and social justice.
 
-github_username: cassdeckard
-linkedin_username: cass-deckard
+github_username: infinitysum
 rss: RSS
 
 ### Build settings
 
-url: https://cassdeckard.github.io
-repository_name: /cassdeckard.github.io
+url: https://infinitysum.github.io
+repository_name: /infinitysum.github.io
 baseurl: /
 
 permalink: pretty
